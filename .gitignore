@@ -17,6 +17,13 @@ __pycache__/
 *.pyo
 
 # -----------------
+# TypeScript / Node.js
+# -----------------
+node_modules/
+dist/
+*.tsbuildinfo
+
+# -----------------
 # IDE / Editor folders
 # -----------------
 .vscode/
